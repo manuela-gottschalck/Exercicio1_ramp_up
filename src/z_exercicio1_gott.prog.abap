@@ -131,6 +131,7 @@ TYPES: BEGIN OF sum_scarr_tel,            "ex. 29
        END OF sum_scarr_tel.
 
 
+
 DATA table_sum_scarr_tel TYPE TABLE OF sum_scarr_tel.
 
 
